@@ -17,7 +17,7 @@ Powell Charnley Powell;+86 933 946 0919;pcharnleyf@jiathis.com
 Elenore Chucks Elenore;+62 419 384 1209;echucksg@guardian.co.uk
 Sally Schimann Sally;+48 735 662 2230;sschimannh@sun.com
 Tilly Keasy Tilly;+86 955 562 7459;tkeasyi@nydailynews.com
-Dene Von Gladbach Dene;+86 877 847 4494;dvonj@java.com
+Dene Gladbach Dene;+86 877 847 4494;dvonj@java.com
 Hynda Gammet Hynda;+30 472 437 3141;hgammetk@comcast.net
 Maximilien Rabbage Maximilien;+86 837 247 4200;mrabbagel@wikispaces.com
 Dory Grenville Dory;+212 742 752 8392;dgrenvillem@github.io
@@ -37,7 +37,7 @@ Olenolin Rodman Olenolin;+86 212 725 7879;orodmanz@cdbaby.com
 Roxie Merrien Roxie;+593 934 981 1612;rmerrien10@blogspot.com
 Roby Brauner Roby;+57 707 618 0103;rbrauner11@fastcompany.com
 Natassia Heighton Natassia;+351 593 873 6611;nheighton12@abc.net.au
-Raffarty Hukins Raffarty|ошибка|+46 307 185 8816;rhukins13@wiley.com
+Raffarty Hukins Raffarty;+46 307 185 8816;rhukins13@wiley.com
 Pepe Pigot Pepe;+86 571 288 2549;ppigot14@fda.gov
 Lorette Christofor Lorette;+81 278 448 9476;lchristofor15@fc2.com
 Dalton Creamen Dalton;+92 589 814 7779;dcreamen16@dailymail.co.uk
@@ -124,7 +124,7 @@ Dredi Frotton Dredi;+55 606 431 2424;dfrotton3e@buzzfeed.com
 Gladi Culbert Gladi;+351 631 386 8849;gculbert3f@marriott.com
 Gabrielle Keets Gabrielle;+62 447 678 7223;gkeets3g@indiegogo.com
 Sydelle Trengove Sydelle;+231 525 370 2484;strengove3h@wikimedia.org
-Jacquelynn Van Cassel Jacquelynn;+86 213 993 2328;jvan3i@list-manage.com
+Jacquelynn Van Cassel;+86 213 993 2328;jvan3i@list-manage.com
 Con Huggens Con;+62 183 727 6316;chuggens3j@weather.com
 Marysa Loddon Marysa;+1 727 750 4776;mloddon3k@google.com.hk
 Fredrika Jasik Fredrika;+62 424 922 1664;fjasik3l@pcworld.com
@@ -184,7 +184,7 @@ Tammie Jedrzaszkiewicz Tammie;+420 399 135 4784;tjedrzaszkiewicz52@hexun.com
 Gleda Shilling Gleda;+7 824 436 9409;gshilling53@livejournal.com
 Spence Bridgewater Spence;+55 313 343 0058;sbridgewater54@nps.gov
 Rowney Nassau Rowney;+351 693 917 9313;rnassau55@hostgator.com
-Augustin De Filippi Augustin;+352 898 115 5236;ade56@cloudflare.com
+Augustin Filippi Augustin;+352 898 115 5236;ade56@cloudflare.com
 Abelard Maulden Abelard;+49 360 102 0269;amaulden57@archive.org
 Somerset Sussans Somerset;+63 373 831 7706;ssussans58@drupal.org
 Betty Carvilla Betty;+46 810 280 6985;bcarvilla59@free.fr
@@ -275,7 +275,7 @@ Base Danby Base;+678 617 518 6095;bdanby7l@friendfeed.com
 Hetty Cardenas Hetty;+359 908 735 2551;hcardenas7m@livejournal.com
 Candy Gidley Candy;+1 320 461 3759;cgidley7n@hugedomains.com
 Jaynell Abramin Jaynell;+33 933 947 3610;jabramin7o@xing.com
-Rabi Le Friec Rabi;+251 243 118 0749;rle7p@twitter.com
+Rabi Friec Rabi;+251 243 118 0749;rle7p@twitter.com
 Cristine Laimable Cristine;+237 440 666 9862;claimable7q@engadget.com
 Hart Chamberlen Hart;+86 274 775 7517;hchamberlen7r@washington.edu
 Cordy Fairclough Cordy;+53 213 344 0961;cfairclough7s@vistaprint.com
@@ -327,7 +327,7 @@ Sidney Devonside Sidney;+57 411 710 0877;sdevonside91@businesswire.com
 Chuck Wankel Chuck;+380 770 443 7314;cwankel92@aboutads.info
 Denys Winckle Denys;+237 564 295 4489;dwinckle93@opensource.org
 Beauregard Ygoe Beauregard;+86 795 724 9136;bygoe94@webmd.com
-Kimberley de Guerre Kimberley;+420 935 489 8344;kde95@marriott.com
+Kimberley Guerre Kimberley;+420 935 489 8344;kde95@marriott.com
 Pippo Witty Pippo;+94 138 742 8064;pwitty96@sourceforge.net
 Conney O'Fearguise Conney;+221 215 552 2149;cofearguise97@amazonaws.com
 Jen Fisby Jen;+351 754 884 4155;jfisby98@telegraph.co.uk
@@ -415,7 +415,7 @@ Milt Bursnall Milt;+62 332 374 7368;mbursnallbh@list-manage.com
 Natassia Dowyer Natassia;+359 993 833 0902;ndowyerbi@e-recht24.de
 Marjorie Baynon Marjorie;+86 687 720 8209;mbaynonbj@pcworld.com
 Hollyanne Myrtle Hollyanne;+591 894 833 6467;hmyrtlebk@bloomberg.com
-Paton Le Maitre Paton;+81 432 510 9218;plebl@washington.edu
+Paton Maitre Paton;+81 432 510 9218;plebl@washington.edu
 Felicity Southernwood Felicity;+420 151 857 7362;fsouthernwoodbm@wp.com
 Sibeal Goseling Sibeal;+251 192 697 5905;sgoselingbn@noaa.gov
 Sterling Winney Sterling;+7 308 171 6748;swinneybo@g.co
@@ -491,7 +491,7 @@ Brina Deadman Brina;+54 484 298 1261;bdeadmandl@mayoclinic.com
 Augustine Clevely Augustine;+86 983 813 6056;aclevelydm@reuters.com
 Raina Rosnau Raina;+1 379 979 7190;rrosnaudn@irs.gov
 Arnuad McRorie Arnuad;+66 968 258 0488;amcroriedo@fda.gov
-Leese Van Merwe Leese;+62 574 258 3953;lvandp@list-manage.com
+Leese Van Merwe;+62 574 258 3953;lvandp@list-manage.com
 Susana Procter Susana;+1 105 464 8076;sprocterdq@bing.com
 Helga Handling Helga;+56 552 376 4884;hhandlingdr@comsenz.com
 Anabella Pellatt Anabella;+86 205 498 1838;apellattds@biblegateway.com
@@ -522,7 +522,7 @@ Ahmed Whitmell Ahmed;+86 229 480 1834;awhitmelleg@unesco.org
 Maris Parsall Maris;+7 894 365 2815;mparsalleh@e-recht24.de
 Ulick Nesey Ulick;+86 884 961 5975;uneseyei@amazon.de
 Fae Tardiff Fae;+27 965 893 1890;ftardiffej@fc2.com
-Terri-jo Schulze Terri-jo;+48 388 221 0076;tschulzeek@imdb.com
+Terri-jo Schulze Harmond;+48 388 221 0076;tschulzeek@imdb.com
 Carroll Harmond Carroll;+963 576 437 3263;charmondel@blogs.com
 Barr Bisatt Barr;+242 944 925 7699;bbisattem@parallels.com
 Waldo Ferrotti Waldo;+66 746 271 6125;wferrottien@xinhuanet.com
@@ -721,7 +721,7 @@ Markos Vango Markos;+251 563 403 9459;mvangojz@ocn.ne.jp
 Ritchie Dunning Ritchie;+55 770 714 6497;rdunningk0@ebay.co.uk
 Gavrielle Tubbles Gavrielle;+7 457 655 6126;gtubblesk1@eepurl.com
 Vasilis Strevens Vasilis;+63 269 674 2556;vstrevensk2@psu.edu
-Olin Van der Brugge Olin;+86 435 634 0477;ovank3@slashdot.org
+Olin Brugge Olin;+86 435 634 0477;ovank3@slashdot.org
 Raymond Loudian Raymond;+51 381 641 6505;rloudiank4@cdc.gov
 Kirby Cammell Kirby;+81 194 292 1458;kcammellk5@hexun.com
 Isabelle Wasling Isabelle;+54 936 639 1438;iwaslingk6@google.ru
@@ -805,7 +805,7 @@ Kailey Drewell Kailey;+420 295 753 1820;kdrewellmb@diigo.com
 Levy Aldrich Levy;+55 895 274 2605;laldrichmc@lycos.com
 Candis Quidenham Candis;+20 887 461 3978;cquidenhammd@github.com
 Hester Kleine Hester;+1 516 636 2791;hkleineme@telegraph.co.uk
-Leticia De Gouy Leticia;+62 518 858 8985;ldemf@google.es
+Leticia Gouy Leticia;+62 518 858 8985;ldemf@google.es
 Carce Chappell Carce;+86 773 425 8162;cchappellmg@github.com
 Sheree Nassy Sheree;+92 594 291 1629;snassymh@sitemeter.com
 Crissie Meharry Crissie;+56 357 333 2849;cmeharrymi@pen.io
@@ -906,7 +906,7 @@ Timmy Gentreau Timmy;+371 356 132 2297;tgentreaup4@toplist.cz
 Bordie Furneaux Bordie;+33 546 491 8886;bfurneauxp5@army.mil
 Josey Darcy Josey;+86 882 898 9132;jdarcyp6@over-blog.com
 Geno Rentalll Geno;+86 369 879 8785;grentalllp7@noaa.gov
-Reta Le Merchant Reta;+81 546 786 7170;rlep8@mozilla.org
+Reta Merchant Reta;+81 546 786 7170;rlep8@mozilla.org
 Sashenka Holdron Sashenka;+33 518 818 9157;sholdronp9@ft.com
 Port Jedrzaszkiewicz Port;+420 736 694 5364;pjedrzaszkiewiczpa@shop-pro.jp
 Cedric Brine Cedric;+356 632 330 9683;cbrinepb@cargocollective.com

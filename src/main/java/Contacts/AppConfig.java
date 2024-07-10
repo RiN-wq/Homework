@@ -6,7 +6,6 @@ import org.springframework.context.annotation.ComponentScan;
 
 @ComponentScan("Contacts")
 public class AppConfig {
-
     @Bean
     public Contact contact(){
         return new Contact();

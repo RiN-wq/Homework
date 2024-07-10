@@ -1,17 +1,18 @@
 package Contacts;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
 import java.io.*;
 @Component
+@Profile("init")
 public class ContactInitializing {
-    String pathOfInitFile =
-            "C:\\Users\\Study\\IdeaProjects\\Contacts\\src\\main\\resources\\default-contacts.txt";
     @Autowired
-    public ContactInitializing(ContactHandler contactHandler){
-        this.contactHandler = contactHandler;
-    }
+    ContactHandler contactHandler;
+    @Value("${file.init.path}")
+    String pathOfInitFile;
     public void initAllContacts(){
 
         try {
